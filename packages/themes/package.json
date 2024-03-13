@@ -1,0 +1,10 @@
+{
+  "name": "@bottlewook/themes",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "esbuild src/index.ts --format=cjs --minify --bundle --outfile=dist/index.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.16.17"
+  }
+}

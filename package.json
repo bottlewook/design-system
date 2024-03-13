@@ -1,0 +1,22 @@
+{
+  "name": "design-system",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bottlewook/design-system.git"
+  },
+  "keywords": [
+    "design-system"
+  ],
+  "author": "bottlewook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bottlewook/design-system/issues"
+  },
+  "homepage": "https://github.com/bottlewook/design-system#readme"
+}
